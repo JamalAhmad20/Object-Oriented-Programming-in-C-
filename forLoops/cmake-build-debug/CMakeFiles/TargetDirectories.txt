@@ -1,0 +1,3 @@
+/Users/nargistahara/Desktop/games/OOP/Object-Oriented-Programming-in-cplusplus/forLoops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nargistahara/Desktop/games/OOP/Object-Oriented-Programming-in-cplusplus/forLoops/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nargistahara/Desktop/games/OOP/Object-Oriented-Programming-in-cplusplus/forLoops/cmake-build-debug/CMakeFiles/forLoops.dir
